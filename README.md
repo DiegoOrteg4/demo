@@ -1,6 +1,12 @@
-# This is a readme
+#this is a readme
 
-Hello, this is my first commit 
+Hello, this is one of my first commits
 
-and this is my browser edit.
+##Here is alist of things that I like
+-Tattoos
+-Football
+-Tequila
+-Music 
+
+
 
